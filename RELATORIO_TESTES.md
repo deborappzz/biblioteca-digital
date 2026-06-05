@@ -3,7 +3,7 @@
 **Projeto:** Sistema de Gerenciamento de Biblioteca Digital  
 **Disciplina:** Programação para Ciência de Dados — PUCPR  
 **Autora:** Débora Pizzolatto Pacassa  
-**Data:** 2025-06-05  
+**Data:** 2026-junho 
 **Versão:** 1.0.0  
 
 ---
