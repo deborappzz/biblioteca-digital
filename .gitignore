@@ -1,0 +1,13 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários do Word/Office
+~$*
+
+# Pasta de testes temporários criada pelos testes automatizados
+documentos_teste/
+
+# Variáveis de ambiente
+.env
