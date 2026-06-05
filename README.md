@@ -178,4 +178,4 @@ documentos/epub/2022/introducao_dados.epub
 ## Autor
 
 **Débora Pizzolatto Pacassa**  
-PUCPR — Programação para Ciência de Dados — 2025
+PUCPR — Programação para Ciência de Dados — 2026
